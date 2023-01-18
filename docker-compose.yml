@@ -20,4 +20,4 @@ services:
     volumes:
       - ./redis:/data/db
     ports:
-      - 6378:6379
+      - 6379:6379
